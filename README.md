@@ -13,6 +13,5 @@ This is a console-based Java ATM simulation built using Object-Oriented Programm
 📜 Mini statement feature (transaction history)
 
 ❌ Exit session securely
-To run
-git clone https://github.com/yourusername/ATM-Project.git
+
 
